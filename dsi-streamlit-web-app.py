@@ -11,7 +11,7 @@ import joblib
 
 # load our model pipeline object
 
-model = joblib.load("D:\\AJ\\DSI\\ABC Grocery\\Model Deployment\\Streamlit\\model.joblib")
+model = joblib.load("model.joblib")
 
 # add title and instructions
 
